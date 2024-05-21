@@ -1,15 +1,18 @@
-CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.96.1.apk  
-Patches: revanced-patches-2.161.1.jar  
+YouTube: 19.11.43  
+Music (arm-v7a): 7.01.52  
+Twitter: 10.42.0-release.0  
+Twitch: 16.9.1  
+Music (arm64-v8a): 7.01.52  
+Reddit: 2024.20.2  
+TikTok: 32.5.3  
+YouTube-Extended: 19.16.39  
 
-#### [2.161.1](https://github.com/revanced/revanced-patches/compare/v2.161.0...v2.161.1) (2023-02-11)
-### Bug Fixes
-* **youtube/minimized-playback:** disable when playing shorts ([cd48030](https://github.com/revanced/revanced-patches/commit/cd48030cada3666d0159ad25711c20045a8a70c7))
+Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
+Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
 
+[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-**App Versions:**  
-YouTube: 18.03.36  
-
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
-
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+CLI: inotia00/revanced-cli-4.6.1-all.jar  
+Integrations: inotia00/revanced-integrations-1.8.2.apk  
+Patches: inotia00/revanced-patches-4.7.1.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.7.1)  
